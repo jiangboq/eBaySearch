@@ -1,5 +1,6 @@
 /*
-	This PHP script aims at extracting information from the form of web page, and construct the URL of ebay API. The 
+	This PHP script aims at extracting information from the form of web page, 
+	and construct the URL of ebay API. The 
 	return data from ebay.com is XML format. Finally, it transform XML data to JSON format and returned to front-end
 */
 <?php
